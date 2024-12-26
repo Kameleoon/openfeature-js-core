@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# production
+build
+dist
+lib
+types
+*.tsbuildinfo
+cache
+kameleoonSDK-*.js
